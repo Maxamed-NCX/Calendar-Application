@@ -1,7 +1,7 @@
 # Calendar-Application
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Calendar-Application)
-![GitHub top language](https://img.shields.io/github/languages/top/Calendar-Application)
+![GitHub repo size](https://img.shields.io/github/repo-size/MCXBootCampUMN/Calendar-Application)
+![GitHub top language](https://img.shields.io/github/languages/top/MCXBootCampUMN/Calendar-Application)
 
 ## Portfolio 2 Project
 
